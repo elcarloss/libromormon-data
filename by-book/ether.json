@@ -1,0 +1,145 @@
+{
+  "slug": "ether",
+  "nombre": "Éter",
+  "abreviacion": "Éter",
+  "orden": 14,
+  "capitulos": 15,
+  "versiculos": 433,
+  "capitulos_meta": [
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 1,
+      "titulo": "Éter 1",
+      "sumario": "Moroni compendia los escritos de Éter — Se declara la genealogía de Éter — No se confunde el lenguaje de los jareditas en la Torre de Babel — El Señor promete conducirlos a una tierra escogida y hacer de ellos una gran nación.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=spa",
+      "versiculos": 43
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 2,
+      "titulo": "Éter 2",
+      "sumario": "Los jareditas se preparan para su viaje a una tierra prometida — Es una tierra escogida en la cual los hombres deben servir a Cristo o, de lo contrario, serán exterminados — El Señor habla al hermano de Jared durante tres horas — Los jareditas construyen barcos — El Señor le indica al hermano de Jared que proponga la manera de iluminar los barcos.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=spa",
+      "versiculos": 25
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 3,
+      "titulo": "Éter 3",
+      "sumario": "El hermano de Jared ve el dedo del Señor al tocar Este las dieciséis piedras — Cristo le muestra el cuerpo de Su espíritu al hermano de Jared — Es imposible impedir que penetren el velo aquellos que poseen un conocimiento perfecto — Se proporcionan intérpretes para que puedan salir a luz los anales de los jareditas.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=spa",
+      "versiculos": 28
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 4,
+      "titulo": "Éter 4",
+      "sumario": "Se le manda a Moroni sellar los escritos del hermano de Jared — No serán revelados sino hasta que los hombres tengan fe aun como la del hermano de Jared — Cristo manda a los hombres creer en Sus palabras y en las de Sus discípulos — Se da a los hombres el mandamiento de arrepentirse, creer en el Evangelio y ser salvos.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=spa",
+      "versiculos": 19
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 5,
+      "titulo": "Éter 5",
+      "sumario": "Tres testigos y la obra misma constituirán un testimonio de la veracidad del Libro de Mormón.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=spa",
+      "versiculos": 6
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 6,
+      "titulo": "Éter 6",
+      "sumario": "Los vientos impelen los barcos jareditas a la tierra prometida — El pueblo alaba al Señor por Su bondad — Oríah es nombrado rey — Mueren Jared y su hermano.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 7,
+      "titulo": "Éter 7",
+      "sumario": "Oríah reina con rectitud — Se establecen los reinos rivales de Shule y Cohor en medio de la usurpación y las contiendas — Los profetas condenan la iniquidad y la idolatría del pueblo, que luego se arrepiente.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=spa",
+      "versiculos": 27
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 8,
+      "titulo": "Éter 8",
+      "sumario": "Hay luchas y contiendas por el reino — Para matar al rey, Akish establece una combinación secreta regida por un juramento — Las combinaciones secretas son del diablo y causan la destrucción de las naciones — Se amonesta a los gentiles modernos en cuanto a la combinación secreta que procurará destruir la libertad de todas las tierras, naciones y países.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=spa",
+      "versiculos": 26
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 9,
+      "titulo": "Éter 9",
+      "sumario": "El reino pasa de uno a otro por descendencia, intrigas y asesinatos — Emer vio al Hijo de Justicia — Muchos profetas proclaman el arrepentimiento — Un hambre muy grande y serpientes venenosas afligen al pueblo.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=spa",
+      "versiculos": 35
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 10,
+      "titulo": "Éter 10",
+      "sumario": "Un rey sucede a otro — Algunos de los reyes son justos; otros son inicuos — Cuando la rectitud prevalece, el Señor bendice al pueblo y lo hace prosperar.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=spa",
+      "versiculos": 34
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 11,
+      "titulo": "Éter 11",
+      "sumario": "Guerras, disensiones e iniquidad predominan en la vida de los jareditas — Profetas predicen la completa destrucción de los jareditas a menos que se arrepientan — El pueblo rechaza las palabras de los profetas.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/11?lang=spa",
+      "versiculos": 23
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 12,
+      "titulo": "Éter 12",
+      "sumario": "El profeta Éter exhorta al pueblo a creer en Dios — Moroni relata las maravillas y los milagros que se efectúan por medio de la fe — La fe permitió al hermano de Jared ver a Cristo — El Señor da debilidad a los hombres para que sean humildes — Por medio de la fe, el hermano de Jared causó que el monte de Zerín se apartara — La fe, la esperanza y la caridad son esenciales para la salvación — Moroni vio a Jesús cara a cara.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 13,
+      "titulo": "Éter 13",
+      "sumario": "Éter habla de una Nueva Jerusalén que edificaría en América la posteridad de José — Profetiza, lo echan fuera, escribe la historia de los jareditas y predice la destrucción de estos — La guerra se extiende por toda la tierra.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=spa",
+      "versiculos": 31
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 14,
+      "titulo": "Éter 14",
+      "sumario": "La iniquidad del pueblo trae una maldición sobre la tierra — Coriántumr emprende la guerra contra Gilead, después contra Lib y después contra Shiz — Sangre y mortandad cubren la tierra.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/14?lang=spa",
+      "versiculos": 31
+    },
+    {
+      "libro": "Éter",
+      "libro_slug": "ether",
+      "capitulo": 15,
+      "titulo": "Éter 15",
+      "sumario": "Millones de jareditas mueren en las batallas — Shiz y Coriántumr reúnen a toda la gente para un combate mortal — El Espíritu del Señor deja de luchar con ellos — La nación jaredita es completamente destruida — Solo Coriántumr queda con vida.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=spa",
+      "versiculos": 34
+    }
+  ]
+}

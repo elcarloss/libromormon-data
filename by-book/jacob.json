@@ -1,0 +1,73 @@
+{
+  "slug": "jacob",
+  "nombre": "Jacob",
+  "abreviacion": "Jacob",
+  "orden": 3,
+  "capitulos": 7,
+  "versiculos": 203,
+  "capitulos_meta": [
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 1,
+      "titulo": "Jacob 1",
+      "sumario": "Jacob y José procuran persuadir a los hombres a creer en Cristo y a guardar Sus mandamientos — Muere Nefi — Predomina la iniquidad entre los nefitas. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=spa",
+      "versiculos": 19
+    },
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 2,
+      "titulo": "Jacob 2",
+      "sumario": "Jacob condena el amor a las riquezas, el orgullo y la falta de castidad — Los hombres pueden buscar riquezas con el fin de ayudar a sus semejantes — El Señor manda que ningún varón de entre los nefitas puede tener más de una esposa — El Señor se deleita en la castidad de las mujeres. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=spa",
+      "versiculos": 35
+    },
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 3,
+      "titulo": "Jacob 3",
+      "sumario": "Los puros de corazón reciben la placentera palabra de Dios — La rectitud de los lamanitas es mayor que la de los nefitas — Jacob amonesta contra la fornicación, la lascivia y todo pecado. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=spa",
+      "versiculos": 14
+    },
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 4,
+      "titulo": "Jacob 4",
+      "sumario": "Todos los profetas adoraron al Padre en el nombre de Cristo — El acto de Abraham de ofrecer a su hijo Isaac fue una semejanza de Dios y de Su Unigénito — Los hombres deben reconciliarse con Dios por medio de la Expiación — Los judíos rechazarán la piedra que sirve de fundamento. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=spa",
+      "versiculos": 18
+    },
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 5,
+      "titulo": "Jacob 5",
+      "sumario": "Jacob cita las palabras de Zenós en cuanto a la alegoría del olivo cultivado y el olivo silvestre — Estos son una similitud de Israel y los gentiles — Se representan el esparcimiento y el recogimiento de Israel — Se hacen alusiones a los nefitas y a los lamanitas y a toda la casa de Israel — Los gentiles serán injertados en Israel — Finalmente la viña será quemada. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=spa",
+      "versiculos": 77
+    },
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 6,
+      "titulo": "Jacob 6",
+      "sumario": "El Señor recobrará a Israel en los últimos días — El mundo será quemado con fuego — Los hombres deben seguir a Cristo para evitar el lago de fuego y azufre. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=spa",
+      "versiculos": 13
+    },
+    {
+      "libro": "Jacob",
+      "libro_slug": "jacob",
+      "capitulo": 7,
+      "titulo": "Jacob 7",
+      "sumario": "Sherem niega a Cristo, contiende con Jacob, demanda una señal y es herido por Dios — Todos los profetas han hablado de Cristo y Su expiación — Los nefitas han pasado su vida errantes, nacidos en la tribulación, y aborrecidos por los lamanitas. Aproximadamente 544–421 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=spa",
+      "versiculos": 27
+    }
+  ]
+}

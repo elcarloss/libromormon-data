@@ -1,0 +1,91 @@
+{
+  "slug": "morm",
+  "nombre": "Mormón",
+  "abreviacion": "Morm.",
+  "orden": 13,
+  "capitulos": 9,
+  "versiculos": 227,
+  "capitulos_meta": [
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 1,
+      "titulo": "Mormón 1",
+      "sumario": "Ammarón da instrucciones a Mormón concernientes a los anales sagrados — Comienza la guerra entre los nefitas y los lamanitas — Se retira a los Tres Nefitas — Prevalecen la iniquidad, la incredulidad, los sortilegios y las hechicerías. Aproximadamente 321–326 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=spa",
+      "versiculos": 19
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 2,
+      "titulo": "Mormón 2",
+      "sumario": "Mormón encabeza los ejércitos de los nefitas — Hay sangre y mortandad por la faz de la tierra — Los nefitas se quejan y se lamentan con la aflicción de los condenados — Su día de gracia ha pasado — Mormón obtiene las planchas de Nefi — Continúan las guerras. Aproximadamente 327–350 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/2?lang=spa",
+      "versiculos": 29
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 3,
+      "titulo": "Mormón 3",
+      "sumario": "Mormón proclama el arrepentimiento a los nefitas — Logran una gran victoria y se jactan de su propia fuerza — Mormón se niega a dirigirlos, y sus oraciones por ellos carecen de fe — El Libro de Mormón invita a las doce tribus de Israel a creer en el Evangelio. Aproximadamente 360–362 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=spa",
+      "versiculos": 22
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 4,
+      "titulo": "Mormón 4",
+      "sumario": "Continúan la guerra y las matanzas — Los inicuos castigan a los inicuos — Jamás había habido una iniquidad mayor entre toda la casa de Israel — Se ofrecen mujeres y niños en sacrificio a los ídolos — Los lamanitas empiezan a ahuyentar a los nefitas delante de ellos. Aproximadamente 363–375 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=spa",
+      "versiculos": 23
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 5,
+      "titulo": "Mormón 5",
+      "sumario": "Mormón nuevamente dirige a los ejércitos nefitas en cruentas batallas de terrible mortandad — El Libro de Mormón aparecerá para convencer a todo Israel de que Jesús es el Cristo — Por motivo de su incredulidad, los lamanitas serán dispersados, y el Espíritu dejará de luchar con ellos — En los últimos días, recibirán el Evangelio de parte de los gentiles. Aproximadamente 375–384 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/5?lang=spa",
+      "versiculos": 24
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 6,
+      "titulo": "Mormón 6",
+      "sumario": "Los nefitas se reúnen en la tierra de Cumorah para las batallas finales — Mormón esconde los anales sagrados en el cerro Cumorah — Los lamanitas triunfan, y la nación nefita es destruida — Centenas de millares de personas perecen por la espada. Aproximadamente 385 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=spa",
+      "versiculos": 22
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 7,
+      "titulo": "Mormón 7",
+      "sumario": "Mormón invita a los lamanitas de los postreros días a creer en Cristo, aceptar Su Evangelio y ser salvos — Todos los que crean en la Biblia creerán también en el Libro de Mormón. Aproximadamente 385 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=spa",
+      "versiculos": 10
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 8,
+      "titulo": "Mormón 8",
+      "sumario": "Los lamanitas persiguen y destruyen a los nefitas — El Libro de Mormón aparecerá por el poder de Dios — Se declaran calamidades sobre los que respiren ira y contiendas contra la obra del Señor — La historia nefita aparecerá en una época de iniquidad, degeneración y apostasía. Aproximadamente 400–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Mormón",
+      "libro_slug": "morm",
+      "capitulo": 9,
+      "titulo": "Mormón 9",
+      "sumario": "Moroni llama al arrepentimiento a aquellos que no creen en Cristo — Él proclama a un Dios de milagros, que da revelaciones y derrama dones y señales sobre los fieles — Los milagros cesan por causa de la incredulidad — Las señales siguen a aquellos que creen — Se exhorta a los hombres a ser prudentes y guardar los mandamientos. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=spa",
+      "versiculos": 37
+    }
+  ]
+}

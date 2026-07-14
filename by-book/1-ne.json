@@ -1,0 +1,208 @@
+{
+  "slug": "1-ne",
+  "nombre": "1 Nefi",
+  "abreviacion": "1 Ne.",
+  "orden": 1,
+  "capitulos": 22,
+  "versiculos": 618,
+  "capitulos_meta": [
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 1,
+      "titulo": "1 Nefi 1",
+      "sumario": "Nefi da principio a la historia de su pueblo — Lehi ve en visión un pilar de fuego y lee en un libro de profecías — Alaba a Dios, predice la venida del Mesías y profetiza la destrucción de Jerusalén — Es perseguido por los judíos. Aproximadamente 600 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=spa",
+      "versiculos": 20
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 2,
+      "titulo": "1 Nefi 2",
+      "sumario": "Lehi lleva a su familia al desierto junto al mar Rojo — Abandonan sus bienes — Lehi ofrece un sacrificio al Señor y enseña a sus hijos a guardar los mandamientos — Lamán y Lemuel murmuran contra su padre — Nefi es obediente y ora con fe; el Señor le habla y es escogido para gobernar a sus hermanos. Aproximadamente 600 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=spa",
+      "versiculos": 24
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 3,
+      "titulo": "1 Nefi 3",
+      "sumario": "Los hijos de Lehi vuelven a Jerusalén para conseguir las planchas de bronce — Labán se niega a entregarlas — Nefi exhorta y anima a sus hermanos — Labán se apodera de sus bienes y procura matarlos — Lamán y Lemuel golpean a Nefi y a Sam, y son reprendidos por un ángel. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=spa",
+      "versiculos": 31
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 4,
+      "titulo": "1 Nefi 4",
+      "sumario": "Nefi mata a Labán por mandato del Señor y luego obtiene las planchas de bronce por una estratagema — Zoram opta por unirse a la familia de Lehi en el desierto. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=spa",
+      "versiculos": 38
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 5,
+      "titulo": "1 Nefi 5",
+      "sumario": "Saríah se queja contra Lehi — Ambos se regocijan por el regreso de sus hijos — Ofrecen sacrificios — Las planchas de bronce contienen los escritos de Moisés y de los profetas — En ellas se indica que Lehi es descendiente de José — Lehi profetiza acerca de sus descendientes y de la preservación de las planchas. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=spa",
+      "versiculos": 22
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 6,
+      "titulo": "1 Nefi 6",
+      "sumario": "Nefi escribe acerca de las cosas de Dios — El propósito de Nefi es persuadir a los hombres a venir al Dios de Abraham y ser salvos. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/6?lang=spa",
+      "versiculos": 6
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 7,
+      "titulo": "1 Nefi 7",
+      "sumario": "Los hijos de Lehi vuelven a Jerusalén e invitan a Ismael y a su familia a unirse a ellos en su viaje — Lamán y otros se rebelan — Nefi exhorta a sus hermanos a tener fe en el Señor — Lo atan con cuerdas y proyectan quitarle la vida — Es librado por el poder de la fe — Sus hermanos le piden perdón — Lehi y los que lo acompañan ofrecen sacrificios y holocaustos. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=spa",
+      "versiculos": 22
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 8,
+      "titulo": "1 Nefi 8",
+      "sumario": "Lehi ve una visión del árbol de la vida — Come de su fruto y desea que su familia haga lo mismo — Ve una barra de hierro, un sendero estrecho y angosto y el vapor de tinieblas que envuelve a los hombres — Saríah, Nefi y Sam comen del fruto, pero Lamán y Lemuel no quieren hacerlo. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=spa",
+      "versiculos": 38
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 9,
+      "titulo": "1 Nefi 9",
+      "sumario": "Nefi prepara dos juegos de anales — A cada uno se da el nombre de planchas de Nefi — Las planchas mayores contienen una historia seglar; las menores tienen que ver principalmente con cosas sagradas. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=spa",
+      "versiculos": 6
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 10,
+      "titulo": "1 Nefi 10",
+      "sumario": "Lehi predice la cautividad en Babilonia — Habla de la venida entre los judíos de un Mesías, un Salvador, un Redentor — Lehi habla también de la venida del que bautizaría al Cordero de Dios — Lehi habla de la muerte y de la resurrección del Mesías — Compara el esparcimiento y el recogimiento de Israel con un olivo — Nefi habla acerca del Hijo de Dios, del don del Espíritu Santo y de la necesidad de que haya rectitud. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=spa",
+      "versiculos": 22
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 11,
+      "titulo": "1 Nefi 11",
+      "sumario": "Nefi ve el Espíritu del Señor y se le muestra el árbol de la vida en una visión — Ve a la madre del Hijo de Dios y aprende acerca de la condescendencia de Dios — Ve el bautismo, el ministerio y la crucifixión del Cordero de Dios — Ve también el llamamiento y ministerio de los Doce Apóstoles del Cordero. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=spa",
+      "versiculos": 36
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 12,
+      "titulo": "1 Nefi 12",
+      "sumario": "Nefi ve en visión la tierra de promisión; la rectitud, la iniquidad y la caída de sus habitantes; la venida del Cordero de Dios entre ellos; que los Doce Discípulos y los Doce Apóstoles juzgarán a Israel; y el estado detestable e inmundo de aquellos que degeneran en la incredulidad. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=spa",
+      "versiculos": 23
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 13,
+      "titulo": "1 Nefi 13",
+      "sumario": "Nefi ve en visión el establecimiento de la iglesia del diablo entre los gentiles, el descubrimiento y la colonización de las Américas, la pérdida de muchas partes claras y preciosas de la Biblia, el estado resultante de la apostasía de los gentiles, la restauración del Evangelio, el advenimiento de las Escrituras de los últimos días y la edificación de Sion. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=spa",
+      "versiculos": 42
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 14,
+      "titulo": "1 Nefi 14",
+      "sumario": "Un ángel le informa a Nefi acerca de las bendiciones y las maldiciones que caerán sobre los gentiles — Solamente hay dos iglesias: la Iglesia del Cordero de Dios y la iglesia del diablo — Los santos de Dios son perseguidos en todas las naciones por la iglesia grande y abominable — El apóstol Juan escribirá tocante al fin del mundo. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 15,
+      "titulo": "1 Nefi 15",
+      "sumario": "Los de la posteridad de Lehi recibirán de los gentiles el Evangelio en los postreros días — El recogimiento de Israel se compara a un olivo cuyas ramas naturales serán injertadas nuevamente — Nefi interpreta la visión del árbol de la vida y dice que la justicia de Dios separa a los malos de los justos. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=spa",
+      "versiculos": 36
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 16,
+      "titulo": "1 Nefi 16",
+      "sumario": "Los inicuos hallan dura la verdad — Los hijos de Lehi se casan con las hijas de Ismael — La Liahona marca el camino que deben seguir por el desierto — De cuando en cuando se escriben en la Liahona mensajes del Señor — Muere Ismael; su familia murmura por motivo de sus aflicciones. Aproximadamente 600–592 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=spa",
+      "versiculos": 39
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 17,
+      "titulo": "1 Nefi 17",
+      "sumario": "Se le manda a Nefi construir un barco — Sus hermanos se le oponen — Él los exhorta contándoles de nuevo la historia de los tratos de Dios con Israel — Nefi se llena del poder de Dios — Prohíbe a sus hermanos que lo toquen, no sea que se marchiten como una caña seca. Aproximadamente 592–591 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=spa",
+      "versiculos": 55
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 18,
+      "titulo": "1 Nefi 18",
+      "sumario": "Se termina el barco — Se mencionan los nacimientos de Jacob y de José — El grupo se embarca hacia la tierra prometida — Los hijos de Ismael y sus esposas toman parte en el holgorio y en la rebelión — Nefi es atado, y el barco es impulsado hacia atrás por una terrible tempestad — Nefi es liberado, y, por medio de su oración, cesa la tormenta — El grupo llega a la tierra prometida. Aproximadamente 591–589 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=spa",
+      "versiculos": 25
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 19,
+      "titulo": "1 Nefi 19",
+      "sumario": "Nefi hace unas planchas de metal y graba en ellas la historia de su pueblo — El Dios de Israel vendrá seiscientos años después de la salida de Lehi de Jerusalén — Nefi habla de los sufrimientos y la crucifixión del Señor — Los judíos serán despreciados y esparcidos hasta los últimos días, cuando vuelvan ellos al Señor. Aproximadamente 588–570 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=spa",
+      "versiculos": 24
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 20,
+      "titulo": "1 Nefi 20",
+      "sumario": "El Señor revela Sus propósitos a Israel — Israel ha sido escogido en el horno de la aflicción y ha de salir de Babilonia — Compárese con Isaías 48. Aproximadamente 588–570 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/20?lang=spa",
+      "versiculos": 22
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 21,
+      "titulo": "1 Nefi 21",
+      "sumario": "El Mesías será una luz a los gentiles y pondrá en libertad a los presos — Israel será recogido con poder en los últimos días — Reyes serán sus ayos — Compárese con Isaías 49. Aproximadamente 588–570 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/21?lang=spa",
+      "versiculos": 26
+    },
+    {
+      "libro": "1 Nefi",
+      "libro_slug": "1-ne",
+      "capitulo": 22,
+      "titulo": "1 Nefi 22",
+      "sumario": "Israel será esparcido sobre toda la faz de la tierra — Los gentiles alimentarán y nutrirán a Israel con el Evangelio en los últimos días — Israel será congregado y se salvará, y los inicuos arderán como rastrojo — El reino del diablo será destruido y Satanás será atado. Aproximadamente 588–570 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=spa",
+      "versiculos": 31
+    }
+  ]
+}

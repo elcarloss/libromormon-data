@@ -1,3 +1,4 @@
+# ignorar caché temporal
 _cache/
 __pycache__/
 *.pyc

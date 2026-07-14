@@ -1,0 +1,19 @@
+{
+  "slug": "jarom",
+  "nombre": "Jarom",
+  "abreviacion": "Jarom",
+  "orden": 5,
+  "capitulos": 1,
+  "versiculos": 15,
+  "capitulos_meta": [
+    {
+      "libro": "Jarom",
+      "libro_slug": "jarom",
+      "capitulo": 1,
+      "titulo": "Jarom 1",
+      "sumario": "Los nefitas guardan la ley de Moisés, miran adelante hacia la venida de Cristo y prosperan en la tierra — Muchos profetas trabajan con diligencia para conservar al pueblo en el camino de la verdad. Aproximadamente 399–361 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=spa",
+      "versiculos": 15
+    }
+  ]
+}

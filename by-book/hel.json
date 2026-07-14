@@ -1,0 +1,154 @@
+{
+  "slug": "hel",
+  "nombre": "Helamán",
+  "abreviacion": "Hel.",
+  "orden": 10,
+  "capitulos": 16,
+  "versiculos": 497,
+  "capitulos_meta": [
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 1,
+      "titulo": "Helamán 1",
+      "sumario": "Pahorán, hijo, llega a ser el juez superior y es asesinado por Kishkumen — Pacumeni ocupa el asiento judicial — Coriántumr dirige los ejércitos lamanitas, se apodera de Zarahemla y mata a Pacumeni — Moroníah derrota a los lamanitas y se vuelve a apoderar de Zarahemla; Coriántumr es muerto. Aproximadamente 52–50 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=spa",
+      "versiculos": 34
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 2,
+      "titulo": "Helamán 2",
+      "sumario": "Helamán hijo de Helamán, llega a ser juez superior — Gadiantón dirige la banda de Kishkumen — Un siervo de Helamán mata a Kishkumen y la banda de Gadiantón huye al desierto. Aproximadamente 50–49 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=spa",
+      "versiculos": 14
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 3,
+      "titulo": "Helamán 3",
+      "sumario": "Muchos nefitas emigran a la tierra del norte — Construyen casas de cemento y llevan muchos anales — Decenas de miles de personas se convierten y son bautizadas — La palabra de Dios conduce a los hombres a la salvación — Nefi hijo de Helamán, ocupa el asiento judicial. Aproximadamente 49–39 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=spa",
+      "versiculos": 37
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 4,
+      "titulo": "Helamán 4",
+      "sumario": "Los disidentes nefitas y los lamanitas unen sus fuerzas y se apoderan de la tierra de Zarahemla — Las derrotas les sobrevienen a los nefitas por motivo de su maldad — La Iglesia decae, y el pueblo se vuelve débil, igual que los lamanitas. Aproximadamente 38–30 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=spa",
+      "versiculos": 26
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 5,
+      "titulo": "Helamán 5",
+      "sumario": "Nefi y Lehi se dedican a predicar — Sus nombres los inducen a regir sus vidas conforme al modelo de sus antepasados — Cristo redime a aquellos que se arrepienten — Nefi y Lehi logran convertir a muchos, son encarcelados y son envueltos como por fuego — Una nube de obscuridad cubre a trescientas personas — Tiembla la tierra, y una voz manda a los hombres que se arrepientan — Nefi y Lehi conversan con ángeles, y los de la multitud son rodeados por fuego. Aproximadamente 30 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=spa",
+      "versiculos": 52
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 6,
+      "titulo": "Helamán 6",
+      "sumario": "Los lamanitas justos predican a los nefitas inicuos — Ambos pueblos prosperan durante una época de paz y abundancia — Lucifer, el autor del pecado, incita el corazón de los inicuos y el de los ladrones de Gadiantón al asesinato y a las abominaciones — Los ladrones se apoderan del gobierno nefita. Aproximadamente 29–23 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 7,
+      "titulo": "Helamán 7",
+      "sumario": "Nefi es rechazado en el norte y vuelve a Zarahemla — Ora en la torre de su jardín y luego dice al pueblo que si no se arrepiente perecerá. Aproximadamente 23–21 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=spa",
+      "versiculos": 29
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 8,
+      "titulo": "Helamán 8",
+      "sumario": "Los jueces corruptos procuran incitar al pueblo en contra de Nefi — Abraham, Moisés, Zenós, Zenoc, Ezías, Isaías, Jeremías, Lehi y Nefi, todos ellos testificaron de Cristo — Por inspiración, Nefi anuncia el asesinato del juez superior. Aproximadamente 23–21 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=spa",
+      "versiculos": 28
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 9,
+      "titulo": "Helamán 9",
+      "sumario": "Los mensajeros encuentran al juez superior muerto en el asiento judicial — Son encarcelados y más adelante se les pone en libertad — Por inspiración, Nefi identifica a Seántum como el asesino — Algunos aceptan a Nefi como profeta. Aproximadamente 23–21 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 10,
+      "titulo": "Helamán 10",
+      "sumario": "El Señor da a Nefi el poder para sellar — Recibe el poder para atar y desatar en la tierra y en el cielo — Manda al pueblo que se arrepienta, o si no, perecerá — El Espíritu lo lleva de multitud en multitud. Aproximadamente 21–20 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=spa",
+      "versiculos": 19
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 11,
+      "titulo": "Helamán 11",
+      "sumario": "Nefi persuade al Señor a que cambie la guerra por el hambre — Muchas personas perecen — Se arrepienten, y Nefi clama al Señor para que envíe lluvia — Nefi y Lehi reciben muchas revelaciones — Los ladrones de Gadiantón se hacen fuertes en la tierra. Aproximadamente 20–6 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=spa",
+      "versiculos": 38
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 12,
+      "titulo": "Helamán 12",
+      "sumario": "Los hombres son inconstantes, insensatos y prontos a cometer iniquidad — El Señor disciplina a Su pueblo — La insignificancia de los hombres se compara con el poder de Dios — En el día del juicio, los hombres tendrán la vida sempiterna o la condenación sempiterna. Aproximadamente 6 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=spa",
+      "versiculos": 26
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 13,
+      "titulo": "Helamán 13",
+      "sumario": "Samuel el Lamanita profetiza la destrucción de los nefitas, a menos que se arrepientan — Ellos y sus riquezas son maldecidos — Rechazan y apedrean a los profetas, los rodean los demonios y buscan la felicidad cometiendo iniquidades. Aproximadamente 6 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=spa",
+      "versiculos": 39
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 14,
+      "titulo": "Helamán 14",
+      "sumario": "Samuel predice que habrá luz durante la noche y que aparecerá una estrella nueva cuando nazca Cristo — Cristo redime al género humano de la muerte temporal y de la espiritual — Entre las señales de Su muerte, habrá tres días de tinieblas, se partirán las rocas y habrá grandes cataclismos. Aproximadamente 6 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=spa",
+      "versiculos": 31
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 15,
+      "titulo": "Helamán 15",
+      "sumario": "El Señor disciplinó a los nefitas porque los amaba — Los lamanitas convertidos son firmes e inmutables en la fe — El Señor será misericordioso con los lamanitas en los días postreros. Aproximadamente 6 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=spa",
+      "versiculos": 17
+    },
+    {
+      "libro": "Helamán",
+      "libro_slug": "hel",
+      "capitulo": 16,
+      "titulo": "Helamán 16",
+      "sumario": "Nefi bautiza a los nefitas que creen a Samuel — Las piedras y las flechas de los nefitas inicuos no pueden matar a Samuel — Algunos endurecen su corazón y otros ven ángeles — Los incrédulos dicen que no es razonable creer en Cristo ni en Su venida a Jerusalén. Aproximadamente 6–1 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=spa",
+      "versiculos": 25
+    }
+  ]
+}

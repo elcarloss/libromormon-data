@@ -5,5 +5,5 @@
   "fuente": "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=spa",
   "generado_en": "2026-07-14T06:41:11Z",
   "parser_version": "libromormon-api 1.1",
-  "nota": "Datos scrapeados puntualmente del sitio oficial en español. Sirven como snapshot estable; si la Iglesia modifica el HTML, regenerar ejecutando scrape_clean.py --force."
+  "nota": "Datos scrapeados puntualmente del sitio oficial en español. Sirven como snapshot estable; si la Iglesia modifica el HTML, ejecutar libromormon.api._discover_books + _fetch_chapter para regenerar."
 }

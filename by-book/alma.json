@@ -1,0 +1,577 @@
+{
+  "slug": "alma",
+  "nombre": "Alma",
+  "abreviacion": "Alma",
+  "orden": 9,
+  "capitulos": 63,
+  "versiculos": 1975,
+  "capitulos_meta": [
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 1,
+      "titulo": "Alma 1",
+      "sumario": "Nehor enseña doctrinas falsas, establece una iglesia, introduce la superchería sacerdotal y mata a Gedeón — Nehor es ejecutado por motivo de sus crímenes — Se difunden entre el pueblo la superchería sacerdotal y las persecuciones — Los sacerdotes se sostienen con su propio trabajo, el pueblo cuida de los pobres y la Iglesia prospera. Aproximadamente 91–88 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=spa",
+      "versiculos": 33
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 2,
+      "titulo": "Alma 2",
+      "sumario": "Amlici intenta hacerse rey y lo rechaza la voz del pueblo — Sus partidarios lo hacen rey — Los amlicitas combaten contra los nefitas y son derrotados — Los lamanitas y los amlicitas unen sus fuerzas y son vencidos — Alma mata a Amlici. Aproximadamente 87 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=spa",
+      "versiculos": 38
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 3,
+      "titulo": "Alma 3",
+      "sumario": "Los amlicitas se habían hecho una marca, de acuerdo con las profecías — Los lamanitas habían sido maldecidos por su rebelión — Los hombres traen sobre sí su propia maldición — Los nefitas derrotan a otro ejército lamanita. Aproximadamente 87–86 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=spa",
+      "versiculos": 27
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 4,
+      "titulo": "Alma 4",
+      "sumario": "Alma bautiza a miles de conversos — Surge la iniquidad en la Iglesia y el progreso de esta disminuye — Nefíah es nombrado juez superior — Alma, en calidad de sumo sacerdote, se dedica al ministerio. Aproximadamente 86–83 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=spa",
+      "versiculos": 20
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 5,
+      "titulo": "Alma 5",
+      "sumario": "Para lograr la salvación, los hombres deben arrepentirse y guardar los mandamientos, nacer de nuevo, purificar sus vestidos mediante la sangre de Cristo, ser humildes, despojarse del orgullo y de la envidia, y hacer las obras de rectitud — El Buen Pastor llama a Su pueblo — Los que hacen obras malas son hijos del diablo — Alma testifica de la veracidad de su doctrina y manda a los hombres que se arrepientan — Los nombres de los justos serán escritos en el libro de la vida. Aproximadamente 83 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=spa",
+      "versiculos": 62
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 6,
+      "titulo": "Alma 6",
+      "sumario": "La Iglesia en Zarahemla se purifica y se pone en orden — Alma va a Gedeón a predicar. Aproximadamente 83 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=spa",
+      "versiculos": 8
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 7,
+      "titulo": "Alma 7",
+      "sumario": "Cristo nacerá de María — Él soltará las ligaduras de la muerte y tomará sobre sí los pecados de Su pueblo — Aquellos que se arrepientan, se bauticen y guarden los mandamientos tendrán la vida eterna — La inmundicia no puede heredar el reino de Dios — Se requieren la humildad, la fe, la esperanza y la caridad. Aproximadamente 83 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa",
+      "versiculos": 27
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 8,
+      "titulo": "Alma 8",
+      "sumario": "Alma predica y bautiza en Melek — Es rechazado en Ammoníah y parte de allí — Un ángel le manda que vuelva y proclame el arrepentimiento al pueblo — Amulek lo recibe y los dos predican en Ammoníah. Aproximadamente 82 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=spa",
+      "versiculos": 32
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 9,
+      "titulo": "Alma 9",
+      "sumario": "Alma manda al pueblo de Ammoníah que se arrepienta — El Señor será misericordioso para con los lamanitas en los últimos días — Si los nefitas abandonan la luz, serán destruidos por los lamanitas — El Hijo de Dios viene pronto — Él redimirá a aquellos que se arrepientan, se bauticen y tengan fe en Su nombre. Aproximadamente 82 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/9?lang=spa",
+      "versiculos": 34
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 10,
+      "titulo": "Alma 10",
+      "sumario": "Lehi era descendiente de Manasés — Amulek relata el mandato del ángel de que atendiera a Alma — Las oraciones de los justos hacen que el pueblo sea preservado — Los abogados y los jueces inicuos establecen el fundamento de la destrucción del pueblo. Aproximadamente 82 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=spa",
+      "versiculos": 32
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 11,
+      "titulo": "Alma 11",
+      "sumario": "Se describe el sistema monetario de los nefitas — Amulek disputa con Zeezrom — Cristo no salvará a las personas en sus pecados — Solamente los que hereden el reino de los cielos serán salvos — Todos los hombres se levantarán en inmortalidad — No hay muerte después de la Resurrección. Aproximadamente 82 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=spa",
+      "versiculos": 46
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 12,
+      "titulo": "Alma 12",
+      "sumario": "Alma habla con Zeezrom — Los misterios de Dios se dan a conocer únicamente a los fieles — Los hombres son juzgados por sus pensamientos, creencias, palabras y obras — Los inicuos padecerán la muerte espiritual — Esta vida terrenal es un estado de probación — El plan de redención lleva a efecto la Resurrección y, por medio de la fe, la remisión de los pecados — Los que se arrepienten tienen derecho a reclamar la misericordia por medio del Hijo Unigénito. Aproximadamente 82 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/12?lang=spa",
+      "versiculos": 37
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 13,
+      "titulo": "Alma 13",
+      "sumario": "Los hombres son llamados a ser sumos sacerdotes por causa de su gran fe y buenas obras — Deben enseñar los mandamientos — Mediante la rectitud son santificados y entran en el reposo del Señor — Melquisedec fue uno de estos — Ángeles declaran alegres nuevas por todas partes — Declararán la realidad de la venida de Cristo. Aproximadamente 82 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/13?lang=spa",
+      "versiculos": 31
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 14,
+      "titulo": "Alma 14",
+      "sumario": "Alma y Amulek son encarcelados y golpeados — Los creyentes y sus Santas Escrituras son echados al fuego — El Señor recibe a estos mártires en gloria — Los muros de la cárcel se parten y caen — Alma y Amulek son liberados, y sus perseguidores son muertos. Aproximadamente 82–81 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=spa",
+      "versiculos": 29
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 15,
+      "titulo": "Alma 15",
+      "sumario": "Alma y Amulek van a Sidom y establecen una iglesia — Alma sana a Zeezrom, el cual se une a la Iglesia — Muchos son bautizados, y la Iglesia prospera — Alma y Amulek parten para Zarahemla. Aproximadamente 81 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=spa",
+      "versiculos": 19
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 16,
+      "titulo": "Alma 16",
+      "sumario": "Los lamanitas destruyen a la gente de Ammoníah — Zoram dirige a los nefitas al triunfo sobre los lamanitas — Alma, Amulek y muchos otros predican la palabra — Enseñan que, después de Su resurrección, Cristo se aparecerá a los nefitas. Aproximadamente 81–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/16?lang=spa",
+      "versiculos": 21
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 17,
+      "titulo": "Alma 17",
+      "sumario": "Los hijos de Mosíah tienen el espíritu de profecía y de revelación — Cada cual va por su propio camino para declarar la palabra a los lamanitas — Ammón va a la tierra de Ismael y se hace siervo del rey Lamoni — Ammón salva los rebaños del rey y mata a los enemigos de este junto a las aguas de Sebús. Versículos 1–3, aproximadamente 77 a.C.; versículo 4, aproximadamente 91–77 a.C.; y versículos 5–39, aproximadamente 91 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=spa",
+      "versiculos": 39
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 18,
+      "titulo": "Alma 18",
+      "sumario": "El rey Lamoni supone que Ammón es el Gran Espíritu — Ammón enseña al rey acerca de la Creación, los tratos de Dios con los hombres y la redención que viene por medio de Cristo — Lamoni cree y cae a tierra como si estuviera muerto. Aproximadamente 90 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=spa",
+      "versiculos": 43
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 19,
+      "titulo": "Alma 19",
+      "sumario": "Lamoni recibe la luz de la vida sempiterna y ve al Redentor — Los de su casa caen a tierra dominados por el Espíritu y muchos de ellos ven ángeles — Ammón es preservado milagrosamente — Bautiza a muchos y establece una iglesia entre ellos. Aproximadamente 90 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/19?lang=spa",
+      "versiculos": 36
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 20,
+      "titulo": "Alma 20",
+      "sumario": "El Señor envía a Ammón a Middoni para que libre a sus hermanos encarcelados — Ammón y Lamoni se encuentran con el padre de Lamoni, que es rey de toda esa tierra — Ammón obliga al anciano rey a aprobar la liberación de sus hermanos. Aproximadamente 90 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 21,
+      "titulo": "Alma 21",
+      "sumario": "Aarón enseña a los amalekitas acerca de Cristo y Su expiación — Aarón y sus hermanos son encarcelados en Middoni — Después de ser librados, enseñan en las sinagogas y logran convertir a muchas personas — Lamoni concede la libertad religiosa al pueblo en la tierra de Ismael. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=spa",
+      "versiculos": 23
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 22,
+      "titulo": "Alma 22",
+      "sumario": "Aarón enseña al padre de Lamoni acerca de la Creación, la Caída de Adán y el plan de redención por medio de Cristo — El rey y todos los de su casa se convierten — Se explica la forma en que se dividía la tierra entre los nefitas y los lamanitas. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=spa",
+      "versiculos": 35
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 23,
+      "titulo": "Alma 23",
+      "sumario": "Se proclama la libertad religiosa — Se convierten los lamanitas de siete tierras y ciudades — Se ponen el nombre de anti-nefi-lehitas y son librados de la maldición — Los amalekitas y los amulonitas rechazan la verdad. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=spa",
+      "versiculos": 18
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 24,
+      "titulo": "Alma 24",
+      "sumario": "Los lamanitas atacan al pueblo de Dios — Los anti-nefi-lehitas se regocijan en Cristo y son visitados por ángeles — Prefieren padecer la muerte antes que defenderse — Se convierten más lamanitas. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 25,
+      "titulo": "Alma 25",
+      "sumario": "Se extienden las agresiones lamanitas — Los descendientes de los sacerdotes de Noé perecen, tal como lo profetizó Abinadí — Se convierten muchos lamanitas y se unen al pueblo de Anti-Nefi-Lehi — Creen en Cristo y observan la ley de Moisés. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/25?lang=spa",
+      "versiculos": 17
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 26,
+      "titulo": "Alma 26",
+      "sumario": "Ammón se gloría en el Señor — El Señor fortalece a los fieles y les da conocimiento — Por medio de la fe, los hombres pueden llevar a miles de almas al arrepentimiento — Dios tiene todo poder y comprende todas las cosas. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=spa",
+      "versiculos": 37
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 27,
+      "titulo": "Alma 27",
+      "sumario": "El Señor manda a Ammón que conduzca al pueblo de Anti-Nefi-Lehi a un lugar donde esté seguro — Al encontrarse con Alma, el gozo de Ammón es tan grande que se le agotan las fuerzas — Los nefitas ceden a sus hermanos del pueblo de Anti-Nefi-Lehi la tierra de Jersón — Se les llama el pueblo de Ammón. Aproximadamente 90–77 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 28,
+      "titulo": "Alma 28",
+      "sumario": "Los lamanitas son derrotados en una batalla tremenda — Decenas de millares mueren — Los malos son condenados a un estado de angustia interminable; los justos logran una felicidad perpetua. Aproximadamente 77–76 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/28?lang=spa",
+      "versiculos": 14
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 29,
+      "titulo": "Alma 29",
+      "sumario": "Alma desea proclamar el arrepentimiento con celo angélico — El Señor concede maestros a todas las naciones — Alma se regocija en la obra del Señor y en el éxito de Ammón y sus hermanos. Aproximadamente 76 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/29?lang=spa",
+      "versiculos": 17
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 30,
+      "titulo": "Alma 30",
+      "sumario": "Korihor, el anticristo, se burla de Cristo, de la Expiación y del espíritu de profecía — Enseña que no hay Dios, ni caída del hombre, ni castigo por el pecado, ni Cristo — Alma testifica que Cristo vendrá y que todas las cosas indican que hay un Dios — Korihor exige una señal y queda mudo — El diablo se le había aparecido a Korihor en forma de ángel y le había enseñado lo que debía decir — Atropellan a Korihor y lo pisotean hasta que muere. Aproximadamente 76–74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=spa",
+      "versiculos": 60
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 31,
+      "titulo": "Alma 31",
+      "sumario": "Alma encabeza una misión para traer de nuevo al redil a los zoramitas apóstatas — Los zoramitas niegan a Cristo, creen en un concepto falso de elección y adoran con oraciones fijas — Los misioneros se ven llenos del Espíritu Santo — Sus aflicciones son consumidas en el gozo de Cristo. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=spa",
+      "versiculos": 38
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 32,
+      "titulo": "Alma 32",
+      "sumario": "Alma enseña a los pobres, cuyas aflicciones los habían humillado — La fe es una esperanza en aquello que no se ve y que es verdadero — Alma testifica que ángeles ministran a hombres, a mujeres y a niños — Alma compara la palabra a una semilla — Esta se debe plantar y nutrir — Entonces crece hasta llegar a ser un árbol del cual se recoge el fruto de la vida eterna. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=spa",
+      "versiculos": 43
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 33,
+      "titulo": "Alma 33",
+      "sumario": "Zenós enseñó que los hombres deben orar y adorar en todo lugar, y que los juicios se apartan a causa del Hijo — Zenoc enseñó que la misericordia se concede a causa del Hijo — Moisés levantó en el desierto un símbolo del Hijo de Dios. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=spa",
+      "versiculos": 23
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 34,
+      "titulo": "Alma 34",
+      "sumario": "Amulek testifica que la palabra está en Cristo para la salvación — Si no se efectúa una expiación, todo el género humano deberá perecer — Toda la ley de Moisés señala hacia el sacrificio del Hijo de Dios — El plan eterno de la redención se basa en la fe y en el arrepentimiento — Orad por bendiciones materiales y espirituales — Esta vida es cuando el hombre debe prepararse para comparecer ante Dios — Labrad vuestra salvación con temor ante Dios. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 35,
+      "titulo": "Alma 35",
+      "sumario": "La predicación de la palabra destruye las artimañas de los zoramitas — Expulsan a los convertidos, los cuales se unen al pueblo de Ammón en Jersón — Alma se aflige por la iniquidad de su pueblo. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=spa",
+      "versiculos": 16
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 36,
+      "titulo": "Alma 36",
+      "sumario": "Alma testifica a Helamán acerca de su conversión tras haber visto a un ángel — Padeció las penas de un alma condenada, invocó el nombre de Jesús y entonces nació de Dios — Un dulce gozo llenó su alma — Vio concursos de ángeles que alababan a Dios — Muchos conversos han probado y visto como él ha probado y visto. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 37,
+      "titulo": "Alma 37",
+      "sumario": "Las planchas de bronce y otras Escrituras se conservan para conducir a las almas a la salvación — Los jareditas fueron destruidos por motivo de su iniquidad — Los juramentos y los convenios secretos de ellos deben esconderse del pueblo — Consulta al Señor en todos tus hechos — Así como la Liahona guio a los nefitas, de igual manera la palabra de Cristo guía a los hombres a la vida eterna. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=spa",
+      "versiculos": 47
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 38,
+      "titulo": "Alma 38",
+      "sumario": "Shiblón fue perseguido por causa de la rectitud — La salvación está en Cristo, el cual es la vida y la luz del mundo — Refrena todas tus pasiones. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=spa",
+      "versiculos": 15
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 39,
+      "titulo": "Alma 39",
+      "sumario": "El pecado sexual es una abominación — Los pecados de Coriantón impidieron que los zoramitas recibieran la palabra — La redención de Cristo es retroactiva para la salvación de los fieles que la antecedieron. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=spa",
+      "versiculos": 19
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 40,
+      "titulo": "Alma 40",
+      "sumario": "Cristo lleva a cabo la resurrección de todos los hombres — Los muertos que han sido justos van al paraíso y los malvados a las tinieblas de afuera para esperar el tiempo de su resurrección — Todo será restablecido a su propia y perfecta forma en la Resurrección. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=spa",
+      "versiculos": 26
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 41,
+      "titulo": "Alma 41",
+      "sumario": "En la Resurrección, los hombres resucitan a un estado de felicidad sin fin o a una miseria interminable — La maldad nunca fue felicidad — Los hombres que se hallan en un estado carnal se encuentran sin Dios en el mundo — En la Restauración, toda persona recibe de nuevo las características y los atributos que haya logrado en el estado terrenal. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=spa",
+      "versiculos": 15
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 42,
+      "titulo": "Alma 42",
+      "sumario": "El estado terrenal es un tiempo de probación que permite al hombre arrepentirse y servir a Dios — La Caída trajo la muerte temporal y espiritual sobre todo el género humano — La redención se realiza por medio del arrepentimiento — Dios mismo expía los pecados del mundo — La misericordia es para aquellos que se arrepienten — Todos los demás quedan sujetos a la justicia de Dios — La misericordia viene a causa de la Expiación — Solo se salvan los que verdaderamente se arrepienten. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=spa",
+      "versiculos": 31
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 43,
+      "titulo": "Alma 43",
+      "sumario": "Alma y sus hijos predican la palabra — Los zoramitas y otros disidentes nefitas se hacen lamanitas — Los lamanitas emprenden la guerra contra los nefitas — Moroni arma a los nefitas con armadura protectora — El Señor revela a Alma la estrategia de los lamanitas — Los nefitas defienden sus hogares, su libertad, sus familias y su religión — Los ejércitos de Moroni y de Lehi rodean a los lamanitas. Aproximadamente 74 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=spa",
+      "versiculos": 54
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 44,
+      "titulo": "Alma 44",
+      "sumario": "Moroni manda a los lamanitas hacer un pacto de paz o resignarse a ser destruidos — Zerahemna rechaza la oferta y la batalla se reanuda — Los ejércitos de Moroni derrotan a los lamanitas. Aproximadamente 74–73 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=spa",
+      "versiculos": 24
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 45,
+      "titulo": "Alma 45",
+      "sumario": "Helamán cree las palabras de Alma — Alma profetiza la destrucción de los nefitas — Bendice y maldice la tierra — Puede ser que Alma haya sido arrebatado por el Espíritu, como lo fue Moisés — Aumenta la disensión en la Iglesia. Aproximadamente 73 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/45?lang=spa",
+      "versiculos": 24
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 46,
+      "titulo": "Alma 46",
+      "sumario": "Amalickíah conspira para hacerse rey — Moroni levanta el estandarte de la libertad — Anima al pueblo a defender su religión — Los creyentes verdaderos son llamados cristianos — Se preservará un resto de la posteridad de José — Amalickíah y los disidentes huyen a la tierra de Nefi — Los que no sostienen la causa de la libertad son ejecutados. Aproximadamente 73–72 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 47,
+      "titulo": "Alma 47",
+      "sumario": "Amalickíah se vale de la traición, el asesinato y la intriga para hacerse rey de los lamanitas — Los disidentes nefitas son más inicuos y feroces que los lamanitas. Aproximadamente 72 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=spa",
+      "versiculos": 36
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 48,
+      "titulo": "Alma 48",
+      "sumario": "Amalickíah incita a los lamanitas contra los nefitas — Moroni prepara a su pueblo para defender la causa de los cristianos — Moroni se regocija en la libertad e independencia, y es un poderoso hombre de Dios. Aproximadamente 72 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=spa",
+      "versiculos": 25
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 49,
+      "titulo": "Alma 49",
+      "sumario": "Los invasores lamanitas no pueden tomar las ciudades fortificadas de Ammoníah y Noé — Amalickíah maldice a Dios y jura beber la sangre de Moroni — Helamán y sus hermanos continúan fortaleciendo a la Iglesia. Aproximadamente 72 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/49?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 50,
+      "titulo": "Alma 50",
+      "sumario": "Moroni fortifica las tierras de los nefitas — Construyen muchas ciudades nuevas — Los nefitas padecieron guerras y destrucciones en los días de sus iniquidades y abominaciones — Teáncum derrota a Moriantón y a sus disidentes — Muere Nefíah y su hijo Pahorán ocupa el asiento judicial. Aproximadamente 72–67 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/50?lang=spa",
+      "versiculos": 40
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 51,
+      "titulo": "Alma 51",
+      "sumario": "Los realistas procuran modificar la ley y establecer un rey — Pahorán y los hombres libres reciben el apoyo de la voz del pueblo — Moroni obliga a los realistas a defender su país o padecer la muerte — Amalickíah y los lamanitas se apoderan de muchas ciudades fortificadas — Teáncum rechaza la invasión lamanita y mata a Amalickíah en su tienda. Aproximadamente 67–66 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=spa",
+      "versiculos": 37
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 52,
+      "titulo": "Alma 52",
+      "sumario": "Ammorón sucede a Amalickíah como rey de los lamanitas — Moroni, Teáncum y Lehi dirigen a los nefitas en una guerra victoriosa contra los lamanitas — Se vuelve a tomar la ciudad de Mulek, y Jacob el zoramita cae muerto. Aproximadamente 66–64 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=spa",
+      "versiculos": 40
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 53,
+      "titulo": "Alma 53",
+      "sumario": "Se emplea a los prisioneros lamanitas para fortificar la ciudad de Abundancia — Las disensiones entre los nefitas dan lugar a las victorias lamanitas — Helamán toma el mando de los dos mil jóvenes del pueblo de Ammón. Aproximadamente 64–63 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/53?lang=spa",
+      "versiculos": 23
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 54,
+      "titulo": "Alma 54",
+      "sumario": "Ammorón y Moroni hacen gestiones para efectuar el canje de prisioneros — Moroni exige que los lamanitas se retiren y cesen sus ataques asesinos — Ammorón exige que los nefitas entreguen sus armas y se sujeten a los lamanitas. Aproximadamente 63 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=spa",
+      "versiculos": 24
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 55,
+      "titulo": "Alma 55",
+      "sumario": "Moroni se niega a canjear prisioneros — Se induce a los guardias lamanitas a embriagarse y se libera a todos los prisioneros nefitas — Se toma la ciudad de Gid sin derramamiento de sangre. Aproximadamente 63–62 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/55?lang=spa",
+      "versiculos": 35
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 56,
+      "titulo": "Alma 56",
+      "sumario": "Helamán envía una epístola a Moroni en la que le relata el estado de la guerra con los lamanitas — Antipus y Helamán logran una gran victoria sobre los lamanitas — Los dos mil jóvenes bajo el mando de Helamán luchan con fuerza milagrosa, y ninguno de ellos muere. Versículo 1, aproximadamente 62 a.C.; versículos 2–19, aproximadamente 66 a.C.; y versículos 20–57, aproximadamente 65–64 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=spa",
+      "versiculos": 57
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 57,
+      "titulo": "Alma 57",
+      "sumario": "Helamán relata la toma de la ciudad de Antipara, la rendición de la ciudad de Cumeni y la defensa posterior de esta — Los jóvenes ammonitas luchan con valentía; todos son heridos, pero ninguno de ellos muere — Gid da un informe de la muerte y huida de los prisioneros lamanitas. Aproximadamente 63 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=spa",
+      "versiculos": 36
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 58,
+      "titulo": "Alma 58",
+      "sumario": "Helamán, Gid y Teómner se apoderan de la ciudad de Manti por medio de una estratagema — Huyen los lamanitas — Los hijos del pueblo de Ammón son preservados al defender firmemente su libertad y su fe. Aproximadamente 63–62 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/58?lang=spa",
+      "versiculos": 41
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 59,
+      "titulo": "Alma 59",
+      "sumario": "Moroni pide a Pahorán que refuerce los ejércitos de Helamán — Los lamanitas se apoderan de la ciudad de Nefíah — Moroni se irrita contra el gobierno. Aproximadamente 62 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/59?lang=spa",
+      "versiculos": 13
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 60,
+      "titulo": "Alma 60",
+      "sumario": "Moroni se queja a Pahorán de la negligencia del gobierno para con los ejércitos — El Señor permite que los justos sean muertos — Los nefitas deben usar todo su poder y medios para librarse de sus enemigos — Moroni amenaza luchar contra el gobierno a menos que se proporcione ayuda a sus ejércitos. Aproximadamente 62 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=spa",
+      "versiculos": 36
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 61,
+      "titulo": "Alma 61",
+      "sumario": "Pahorán informa a Moroni de la insurrección y rebelión contra el gobierno — Los realistas se apoderan de Zarahemla y conciertan una alianza con los lamanitas — Pahorán solicita ayuda militar contra los rebeldes. Aproximadamente 62 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=spa",
+      "versiculos": 21
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 62,
+      "titulo": "Alma 62",
+      "sumario": "Moroni parte para ayudar a Pahorán en la tierra de Gedeón — Se ejecuta a los realistas que se niegan a defender su país — Pahorán y Moroni se apoderan nuevamente de la ciudad de Nefíah — Muchos de los lamanitas se unen al pueblo de Ammón — Teáncum mata a Ammorón y es muerto a su vez — Los lamanitas son arrojados de la tierra, y se establece la paz — Helamán vuelve al ministerio y edifica a la Iglesia. Aproximadamente 62–57 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=spa",
+      "versiculos": 52
+    },
+    {
+      "libro": "Alma",
+      "libro_slug": "alma",
+      "capitulo": 63,
+      "titulo": "Alma 63",
+      "sumario": "Shiblón y, después de él, Helamán se hacen cargo de los anales sagrados — Muchos nefitas viajan a la tierra del norte — Hagot construye barcos que navegan en el mar del oeste — Moroníah vence a los lamanitas en una batalla. Aproximadamente 56–52 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=spa",
+      "versiculos": 17
+    }
+  ]
+}

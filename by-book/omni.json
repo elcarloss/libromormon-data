@@ -1,0 +1,19 @@
+{
+  "slug": "omni",
+  "nombre": "Omni",
+  "abreviacion": "Omni",
+  "orden": 6,
+  "capitulos": 1,
+  "versiculos": 30,
+  "capitulos_meta": [
+    {
+      "libro": "Omni",
+      "libro_slug": "omni",
+      "capitulo": 1,
+      "titulo": "Omni 1",
+      "sumario": "Omni, Amarón, Quemis, Abinadom y Amalekí, cada uno, a su vez, llevan los anales — Mosíah descubre el pueblo de Zarahemla, el cual había llegado de Jerusalén en la época de Sedequías — Mosíah es nombrado rey — Los mulekitas habían descubierto a Coriántumr, el último de los jareditas — El rey Benjamín sucede a Mosíah — Los hombres deben ofrecer su alma como ofrenda a Cristo. Aproximadamente 323–130 a.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=spa",
+      "versiculos": 30
+    }
+  ]
+}

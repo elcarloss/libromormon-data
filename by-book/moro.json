@@ -1,0 +1,100 @@
+{
+  "slug": "moro",
+  "nombre": "Moroni",
+  "abreviacion": "Moro.",
+  "orden": 15,
+  "capitulos": 10,
+  "versiculos": 163,
+  "capitulos_meta": [
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 1,
+      "titulo": "Moroni 1",
+      "sumario": "Moroni escribe para el beneficio de los lamanitas — Se mata a todo nefita que no niegue al Cristo. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=spa",
+      "versiculos": 4
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 2,
+      "titulo": "Moroni 2",
+      "sumario": "Jesús dio a los doce discípulos nefitas poder para conferir el don del Espíritu Santo. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=spa",
+      "versiculos": 3
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 3,
+      "titulo": "Moroni 3",
+      "sumario": "Los élderes ordenan presbíteros y maestros mediante la imposición de manos. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=spa",
+      "versiculos": 4
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 4,
+      "titulo": "Moroni 4",
+      "sumario": "Se expone la forma en que los élderes y los presbíteros administran el pan sacramental. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=spa",
+      "versiculos": 3
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 5,
+      "titulo": "Moroni 5",
+      "sumario": "Se expone la forma de administrar el vino sacramental. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=spa",
+      "versiculos": 2
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 6,
+      "titulo": "Moroni 6",
+      "sumario": "Las personas que se arrepienten son bautizadas y hermanadas en la Iglesia — Los miembros de la Iglesia que se arrepienten son perdonados — Las reuniones se dirigen por el poder del Espíritu Santo. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=spa",
+      "versiculos": 9
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 7,
+      "titulo": "Moroni 7",
+      "sumario": "Se hace la invitación a entrar en el reposo del Señor — Orad con verdadera intención — El Espíritu de Cristo habilita a los hombres para discernir el bien del mal — Satanás persuade a los hombres a negar a Cristo y hacer lo malo — Los profetas manifiestan la venida de Cristo — Por medio de la fe, se efectúan los milagros y los ángeles ministran — Los hombres deben tener la esperanza de obtener la vida eterna y deben allegarse a la caridad. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=spa",
+      "versiculos": 48
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 8,
+      "titulo": "Moroni 8",
+      "sumario": "El bautismo de los niños pequeños es una terrible iniquidad — Los niños pequeños viven en Cristo por motivo de la Expiación — La fe, el arrepentimiento, la mansedumbre y la humildad de corazón, la recepción del Espíritu Santo y la perseverancia hasta el fin conducen a la salvación. Aproximadamente 401–421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=spa",
+      "versiculos": 30
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 9,
+      "titulo": "Moroni 9",
+      "sumario": "Tanto los nefitas como los lamanitas se han depravado y degenerado — Se torturan y se asesinan unos a otros — Mormón suplica que la gracia y la bondad de Dios acompañen a Moroni para siempre. Aproximadamente 401 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=spa",
+      "versiculos": 26
+    },
+    {
+      "libro": "Moroni",
+      "libro_slug": "moro",
+      "capitulo": 10,
+      "titulo": "Moroni 10",
+      "sumario": "Se recibe un testimonio del Libro de Mormón por el poder del Espíritu Santo — Los dones del Espíritu se dan a los fieles — Los dones espirituales siempre acompañan a la fe — Las palabras de Moroni hablan desde el polvo — Venid a Cristo, perfeccionaos en Él y santificad vuestras almas. Aproximadamente 421 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=spa",
+      "versiculos": 34
+    }
+  ]
+}

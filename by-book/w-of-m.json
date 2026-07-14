@@ -1,0 +1,19 @@
+{
+  "slug": "w-of-m",
+  "nombre": "Palabras de Mormón",
+  "abreviacion": "W de M.",
+  "orden": 7,
+  "capitulos": 1,
+  "versiculos": 18,
+  "capitulos_meta": [
+    {
+      "libro": "Palabras de Mormón",
+      "libro_slug": "w-of-m",
+      "capitulo": 1,
+      "titulo": "Palabras de Mormón 1",
+      "sumario": "Mormón compendia las planchas mayores de Nefi — Coloca las planchas menores junto con las otras planchas — El rey Benjamín establece la paz en la tierra. Aproximadamente 385 d.C.",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/w-of-m/1?lang=spa",
+      "versiculos": 18
+    }
+  ]
+}
